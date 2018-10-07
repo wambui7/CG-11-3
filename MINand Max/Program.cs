@@ -10,6 +10,13 @@ namespace MINand_Max
 	{
 		static void Main(string[] args)
 		{
+			StudentList studentList = new StudentList();
+
+			studentList.Run();
 		}
+	}
+
+	class StudentList
+	{
 	}
 }
